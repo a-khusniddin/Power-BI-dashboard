@@ -1,6 +1,6 @@
 # Data Jobs Dashboard using Power BI
 
-![](assets\overview.gif)
+<img width="800" height="449" alt="overview" src="https://github.com/user-attachments/assets/7ee3009e-1406-4696-b4c5-5d195037c789" />
 
 
 ## Introduction
@@ -24,7 +24,9 @@ Here is the dashboard file: [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbi
 ## Dashboard Overview
 
 ### 🔍 Page 1: Market View
-![](assets\page1.gif)
+
+<img width="800" height="447" alt="page1" src="https://github.com/user-attachments/assets/29f9df4e-f636-40d3-a484-f9710ccd54e8" />
+
 
 This main page serves as your starting point, turning millions of complicated data points into a single, easy-to-read screen. It gives you a quick look at the entire data job market so you don't have to guess what's happening.
 
@@ -38,7 +40,8 @@ ___
 
 ### 🎯 Page 2: Job Title Drill-Through
 
-![](assets\page2.gif)
+<img width="800" height="445" alt="page2" src="https://github.com/user-attachments/assets/2f2a6256-d080-4bc2-bec2-f3024cfbe42e" />
+
 
 This is the deep-dive page of the project! By right-clicking a specific job title on the first page, you can "drill through" to this view to unlock detailed facts and figures tailored to just that role.
 
